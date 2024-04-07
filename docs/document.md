@@ -6,7 +6,7 @@
 |应用场景|技术栈|版本|备注|
 |--|-----|-----|-----|
 |Java|SDK|JDK|8|
-|IDE|IntelliJ|IDEA||
+|IDE|IntelliJ IDEA||
 |构建工具|Apache Maven||
 |核心框架|Spring、Spring Boot、Spring Cloud、Spring Cloud Alibaba| |
 |注册中心+配置中心|Alibaba Nacos| | |
