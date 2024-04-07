@@ -7,7 +7,7 @@
 
 ### 1. 注释插件
 
-![img.png](../public/img.png)
+![img.png](../public/easyDoc1.png)
 
 相关配置信息
 ```
